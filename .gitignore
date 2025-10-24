@@ -1,0 +1,47 @@
+# Blender autosave files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# Blender backup files
+*.blend.save
+*.blend.old
+
+# Cache / temp folders (Blender or others)
+__pycache__/
+*.pyc
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Textures baking and cache directories
+/cache/
+/textures_cache/
+/bakes/
+
+# Thumbnails / previews
+*.thumbs
+*.DS_Store
+Thumbs.db
+
+# Render outputs
+/renders/
+*.exr
+*.hdr
+
+# Exported game or engine builds (if any)
+/exports/
+/build/
+
+# Misc IDE / system files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+desktop.ini
+
+
+*.bsg
